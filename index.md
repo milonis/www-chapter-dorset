@@ -22,6 +22,37 @@ We welcome OWASP Corporate Members who would like to align themselves with the D
 ## Meeting Sponsors
 We also welcome donations from organisations for individual OWASP events, donations can be from providing event space to hosting a meetup or financial donation which is put towards providing refreshments at the event and providing a buffer fund to help the chapter support the community and allow us to bring in speakers from further afield.
 
+<table cellpadding="15" cellspacing="0">
+<tr>
+<td>
+
+<img src="assets/images/3SIDEDCUBE_logo.jpg" alt="3-Sided-Cube"/>
+
+</td>
+<td>
+
+
+<img src="assets/images/WardenGroupLtd-Logo3.png" alt="WardenGroup"/>
+
+</td>
+<td>
+<img src="assets/images/Bournemouth_University_Logo.jpg" alt="Bournemouth University"/>
+
+
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/Hays_Digital_Technology.png" alt="Hays Digital"/>
+
+</td>
+<td>
+<img src="assets/images/Barclays-EL-Standard-White-Eagle-Logo-RGB.jpg" alt="Barclays"/>
+
+</td>
+</tr>
+</table>
+
 ## Next Meeting/Event(s)
 TBC
 
@@ -45,8 +76,6 @@ OWASP Dorset will be hosting a Capture the Flag event. It is scenario based and 
 We are very fortunate to be granted access to Bournemouth University's cyber lab and equipment so all tools will be provided.
 
 Hope to see you there!
-#### Sponsors
-![Venue: Bournemouth University][BU]
 
 ### Meetup Collider - Monday 9th September 2019
 Location: 1 Chaseside, Bournemouth BH7 7DA
@@ -67,8 +96,6 @@ Two of the OWASP Dorset Chapter Leads, both are professional cyber security cons
 James is a specialist penetration tester recruiter for ARM
 ##### Mike Warner
 Mike is a Software Engineer at JPMorgan Chase & Co. Mike is a certified cybersecurity professional, attaining various cyber related certifications. Mike is an avid promotor of secure code and teacher of the cyber domain. Teaching a range of topics from social engineering to software vulnerabilities, cryptography and network exploits. Mike has held various roles across multiple firms within the cybersecurity field.
-#### Sponsors
-This was a JPMorgan event which OWASP Dorest participated at
 
 ### Meetup #3 - Thursday, 27th June 2019
 Location: Barclays Eagle Lab
@@ -106,8 +133,6 @@ Understanding how intelligence works can give you the edge when your website, da
 #### SPEAKERS:
 ##### David P
 Cyber Threat Intelligence Analyst Trained in the Royal Corps of Signals, David went onto Microsoft and then ICL (Fujitsu) as a network administrator, he later moved into Threat Intelligence.
-#### Sponsors
-![Venue: Bournemouth University][BU] ![Refreshments: Hays Digital Technology][HAYS]
 
 ### Meetup #1 - Wednesday, 30th January 2019
 Location: 3 Sided Cube, Telephone House, 18 Christchurch Road, Bournemouth, Dorset, England, BH1 3NE
@@ -126,8 +151,6 @@ Daniel is the founder of OWASP Dorset and Director of Warden Group. Warden Group
 Program leader for the BSc (Hons) Forensic Computing and Security at Bournemouth University. Lecturer in Computing.
 PhD in Information and Communication Security and a BSc (Hons) in Computer Science from Athens University of Economics and Business, MSc in Information Security from Royal Holloway, University of London. Fellow of HEA, teaching and research focuses on Cyber Security and Digital Forensics. Before joining BU, Lecturer at Staffordshire University and before that a security consultant working within VeriSign's PKI Trust Network. Holds more than 20 well referenced, esteemed journal and conference publications. Served as as PC and TC member in a number of reputable conferences (e.g. ESORICS, ARES, etc.) and journals (Computer & Security, Computer, Computers & Electrical Engineering, etc.). Member of IEEE and ACM.
 His research falls in the area of cybersecurity and digital forensics. Currently, his work focuses on : (a) smartphone security and privacy, (b) IoT security, (c) Android memory forensics, (d) web security and online fraud prevention, and (e) intrusion detection.
-#### Sponsors
-![Venue: 3 Sided Cube][3SC] ![Refreshments: Warden Group][WG]
 
 ## Speaking at OWASP Dorset Chapter Events
 Call For Speakers is always open - if you would like to present a talk on Application Security at future OWASP Dorset Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to any of our Chapter Leaders Daniel W, Mark Davison and Alexios Mylonas.
@@ -137,13 +160,4 @@ We also welcome people new to public speaking and can offer advice and coaching.
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leader if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: https://www.owasp.org/index.php/Governance/Conference_Policies
 
 ## Other Activities
-Local News
-Everyone is welcome to join us at our chapter meetings.
-
-[3SC]: assets/images/3SIDEDCUBE_logo.jpg
-[WG]: assets/images/WardenGroupLtd-Logo3.png
-[BU]: assets/images/Bournemouth_University_Logo.jpg
-[HAYS]: assets/images/Hays_Digital_Technology.png
-[BDE]: assets/images/Barclays-EL-Standard-White-Eagle-Logo-RGB.jpg
-
 
