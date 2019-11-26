@@ -15,7 +15,7 @@ OWASP Foundation (Overview Slides) is a professional association of global membe
 ## Chapter Sponsors
 We welcome OWASP Corporate Members who would like to align themselves with the Dorset chapter, therefore contributing funds to our chapter and allowing us to host more events. Sponsor OWASP Dorset Chapter.
 
-## Meeting Sponsors
+## Event Sponsors
 We also welcome donations from organisations for individual OWASP events, donations can be from providing event space to hosting a meetup or financial donation which is put towards providing refreshments at the event and providing a buffer fund to help the chapter support the community and allow us to bring in speakers from further afield.
 
 <table cellpadding="15" cellspacing="0">
@@ -57,7 +57,7 @@ We also welcome people new to public speaking and can offer advice and coaching.
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leader if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: https://www.owasp.org/index.php/Governance/Conference_Policies
 
 
-## Next Meeting/Event(s)
+## Next Event
 TBC
 
 Location: TBC
@@ -71,12 +71,4 @@ Following on from our CTF event we will reveal how to hack larabee (box availabl
 Future Events
 ##### Talk TBC - TBC
 
-
-## Other Activities
-
-### Meetup Q1 2020
-### Meetup Q2 2020
-### Meetup Q3 2020
-### CTF 2020
-### Meetup Q4 2020
 
