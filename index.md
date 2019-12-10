@@ -54,7 +54,7 @@ Call For Speakers is always open - if you would like to present a talk on any as
 We also welcome people new to public speaking and can offer advice and coaching. We are a friendly and supportive community, come give your first talk with us!
 
 ## Code of Conduct
-We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leader if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: https://www.owasp.org/index.php/Governance/Conference_Policies
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leader if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: <https://www.owasp.org/index.php/Governance/Conference_Policies>
 
 
 ## Next Event
@@ -64,7 +64,7 @@ Location: The Goat and Tricycle
 
 Time: 7:30pm 
 Meet for an evening of socialing and exchanging ideas with our likeminded folk, everyone welcome!
-https://www.meetup.com/OWASP-Dorset-Chapter/events/266968651
+<https://www.meetup.com/OWASP-Dorset-Chapter/events/266968651>
 
 
 
