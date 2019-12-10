@@ -50,25 +50,21 @@ We also welcome donations from organisations for individual OWASP events, donati
 </table>
 
 ## Speaking at OWASP Dorset Chapter Events
-Call For Speakers is always open - if you would like to present a talk on Application Security at future OWASP Dorset Chapter events - please review and agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to any of our Chapter Leaders Daniel W, Mark Davison and Alexios Mylonas.
-We also welcome people new to public speaking and can offer advice and coaching. And with such a friendly and supportive community come give your first talk with us.
+Call For Speakers is always open - if you would like to present a talk on any aspect of cyber security at a future OWASP Dorset Chapter event - please review and ensure you agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to any of our Chapter Leaders.
+We also welcome people new to public speaking and can offer advice and coaching. We are a friendly and supportive community, come give your first talk with us!
 
 ## Code of Conduct
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leader if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies here: https://www.owasp.org/index.php/Governance/Conference_Policies
 
 
 ## Next Event
-TBC
+Thusday 12th December 2019
 
-Location: TBC
+Location: The Goat and Tricycle
 
-Time: Doors Open at 6:30pm for registration, pizza, drinks and networking. The talks start at 7:05pm (we start on time), close meeting by 9.00pm
+Time: 7:30pm 
+Meet for an evening of socialing and exchanging ideas with our likeminded folk, everyone welcome!
+https://www.meetup.com/OWASP-Dorset-Chapter/events/266968651
 
-#### TALKS:
-##### Making use of OWASP resources: TBC
-##### Larabee - Mark Davison
-Following on from our CTF event we will reveal how to hack larabee (box available here)
-Future Events
-##### Talk TBC - TBC
 
 
