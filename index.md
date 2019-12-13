@@ -58,13 +58,11 @@ We hope you enjoy our events, we care deeply about inclusivity and diversity so 
 
 
 ## Next Event
-Thusday 12th December 2019
+January 2020
 
-Location: The Goat and Tricycle
+Location: TBC
 
 Time: 7:30pm 
-Meet for an evening of socialing and exchanging ideas with our likeminded folk, everyone welcome!
-[meetup details](https://www.meetup.com/OWASP-Dorset-Chapter/events/266968651)
-
+Talks: TBC
 
 
