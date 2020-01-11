@@ -64,9 +64,9 @@ Location: JPMC, 1 Chaseside, Bournemouth BH7 7DA
 
 Time: 18:00 
 Talks:
-Talk 1 - OWASP lead Daniel Warden will walk us through OWASP Zed Attack Proxy (ZAP)
-Talk 2 - JPMC Security Engineer Mike Warner - Wireless De-auth attacks and handshake captures
-Talk 3 - JPMC Security Engineer Anthony Grimes - WebAuthn: A new standard in securing ourselves online
-Talk 4 - TBC
+* OWASP lead Daniel Warden will walk us through OWASP Zed Attack Proxy (ZAP)
+* JPMC Security Engineer Mike Warner - Wireless De-auth attacks and handshake captures
+* JPMC Security Engineer Anthony Grimes - WebAuthn: A new standard in securing ourselves online
+* Talk 4 TBC
 
 
