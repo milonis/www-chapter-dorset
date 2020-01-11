@@ -63,6 +63,7 @@ January 2020
 Location: JPMC, 1 Chaseside, Bournemouth BH7 7DA
 
 Time: 18:00 
+
 Talks:
 * OWASP lead Daniel Warden will walk us through OWASP Zed Attack Proxy (ZAP)
 * JPMC Security Engineer Mike Warner - Wireless De-auth attacks and handshake captures
