@@ -68,6 +68,6 @@ Talks:
 * OWASP lead Daniel Warden will walk us through OWASP Zed Attack Proxy (ZAP)
 * JPMC Security Engineer Mike Warner - Wireless De-auth attacks and handshake captures
 * JPMC Security Engineer Anthony Grimes - WebAuthn: A new standard in securing ourselves online
-* Talk 4 TBC
+* Sophia McCall - Hunted? Hunter! (An insight into my time on Hunted (Channel 4) as a cyber hunter, detailing the techniques we used to find the fugitives on the show)
 
 
