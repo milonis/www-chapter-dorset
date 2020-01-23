@@ -58,15 +58,15 @@ We hope you enjoy our events, we care deeply about inclusivity and diversity so 
 
 
 ## Next Event
-January 2020
+March 2020
 
-Location: JPMC, 1 Chaseside, Bournemouth BH7 7DA
+Location: TBC
 
-Time: 18:00 
+Time: 19:00 
 
 Talks:
-* OWASP lead Daniel Warden will walk us through OWASP Zed Attack Proxy (ZAP)
-* JPMC Security Engineer Mike Warner - Wireless De-auth attacks and handshake captures
-* JPMC Security Engineer Anthony Grimes - WebAuthn: A new standard in securing ourselves online
-* Sophia McCall - Hunted? Hunter! (An insight into my time on Hunted (Channel 4) as a cyber hunter, detailing the techniques we used to find the fugitives on the show)
+* OWASP Dorset Chapter lead Mark Davison will (finally!) explain how to pop Larabee
+* TBC
+* TBC
+* TBC
 
