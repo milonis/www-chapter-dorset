@@ -70,4 +70,3 @@ Talks:
 * JPMC Security Engineer Anthony Grimes - WebAuthn: A new standard in securing ourselves online
 * Sophia McCall - Hunted? Hunter! (An insight into my time on Hunted (Channel 4) as a cyber hunter, detailing the techniques we used to find the fugitives on the show)
 
-
