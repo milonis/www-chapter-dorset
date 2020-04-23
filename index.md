@@ -58,15 +58,5 @@ We hope you enjoy our events, we care deeply about inclusivity and diversity so 
 
 
 ## Next Event
-March 2020
-
-Location: TBC
-
-Time: 19:00 
-
-Talks:
-* OWASP Dorset Chapter lead Mark Davison will (finally!) explain how to pop Larabee
-* TBC
-* TBC
-* TBC
+See [Meetup](https://www.meetup.com/OWASP-Dorset-Chapter) for all our Past and Future events.
 
