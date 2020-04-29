@@ -10,6 +10,7 @@ tags: dorset
 ---
 
 ## Past Events
+<hr>
 
 ### 2020-01 Meetup Collider
 ##### Location: 1 Chaseside, Bournemouth BH7 7DA
@@ -24,11 +25,13 @@ tags: dorset
 ##### Sophia McCall (Cyber Hunter) 
  --- Hunted? Hunter! (An insight into my time on Hunted (Channel 4) as a cyber hunter, detailing the techniques we used to find the fugitives on the show)  
 
+--------
 ### 2019-10 OWASP Dorset CTF
 ##### Location: 1 Chaseside, Bournemouth BH7 7DA
 ##### Time: 18:00 - 21:00
 OWASP Dorset will be hosting a Capture the Flag event. It is scenario based and we would like to see people pairing up to tackle the challenges and share knowledge, we welcome all skill levels and have experienced volunteers on hand to provide advice guidance and clues! The event will open with a crash course on CTF strategy. We are very fortunate to be granted access to Bournemouth University's cyber lab and equipment so all tools will be provided. Hope to see you there!
 
+--------
 ### 2019-09 Meetup Collider
 #### TALKS:
 ##### Daniel Warden (OWASP Dorset Chapter leader) 
@@ -40,6 +43,7 @@ OWASP Dorset will be hosting a Capture the Flag event. It is scenario based and 
 ##### Mike Warner (Software Enginerr @ JPMC) AppSec 101 
 --– A break down of the theory behind web application vulnerabilities and provides a handful of payload examples to exploit the most common weaknesses: SQL Injection, Cross site scripting (XSS), Path Traversal, and Command “OS” injection from Mike Warner
 
+--------
 ### 2019-06 Meetup #3
 ##### Location: Barclays Eagle Lab - County Gates House, 300 Poole Road, Bournemouth, BH12 1AZ
 ##### Time: 1830-2100
@@ -53,6 +57,7 @@ from a recent graduate. ([PDF](assets/presentations/2019-06/OWASP_Mark_Davison_P
 --- A session to discuss what you would like OWASP Dorset to be doing, the type of content and style of events.
 Led by the OWASP Dorset Chapter Leads, we are keen to hear your thoughts.
 
+--------
 ### 2019-04
 ##### Location: Executive Business Centre, Bournemouth University, 89 Holdenhurst Road, Bournemouth, BH8 8EB
 ##### Time: Doors Open at 6:30pm for registration, pizza, drinks and networking. The talks start at 7:15pm (we start on time), close meeting by 9.00pm
@@ -60,6 +65,7 @@ Led by the OWASP Dorset Chapter Leads, we are keen to hear your thoughts.
 ##### David P (Cyber Threat Intelligence Analyst Trained in the Royal Corps of Signals, David went onto Microsoft and then ICL (Fujitsu) as a network administrator, he later moved into Threat Intelligence.)
 --- Cyber Kill Chains: Understanding how intelligence works can give you the edge when your website, data or email service is being hacked. With a real life case study, we'll be exploring three analysis tools - Cyber Kill Chains, Diamond Models and the Intelligence cycle. David will show how you can use these tools to understand what your adversary is actually doing, how close to 'the Crown Jewels' they've got, how to find their identity, their attributes and most importantly of all, what you can do to stop them. ([PDF](assets/presentations/2019-04/Cyber_Kill_Chains-11-Apr-19-OWASP-Dorset.pdf "wikilink"))
 
+--------
 ### 2019-01
 ##### Location: 3 Sided Cube, Telephone House, 18 Christchurch Road, Bournemouth, Dorset, England, BH1 3NE
 ##### Time: Doors Open at 6:30pm for registration, pizza, drinks and networking. The talks start at 7:00pm (we start on time), close meeting by 9.00pm
