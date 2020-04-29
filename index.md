@@ -4,8 +4,8 @@ layout: col-sidebar
 title: OWASP Dorset
 tags: dorset chapter meetup ctf
 level: 4
-
 region: Europe
+currency: gbp
 
 ---
 
