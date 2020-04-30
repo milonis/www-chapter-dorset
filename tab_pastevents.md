@@ -10,29 +10,38 @@ tags: dorset
 ---
 
 ## Past Events
-<hr>
+--------
+### 2020-04 Lockdown (Meetup #7) 
+##### Location: Online Only
+##### Time: 18:30 -20:00
+#### Talks
+##### Mark Davison (OWASP Dorset Chapter Leader)
+--- Larabee the Reveal: Mark will reveal how to pop Larabee the only box which wasn't beaten at the CTF 
+##### Milton Kandias (Red Team analyst )
+--- Red Teaming - OSINT - Phishing
 
-### 2020-01 Meetup Collider
+--------
+### 2020-01 Meetup Collider (Meetup #6)
 ##### Location: 1 Chaseside, Bournemouth BH7 7DA
 ##### Time: 18:00 - 21:00
 #### Talks  
 ##### Daniel Warden (OWASP Dorset Chapter Leader) 
- --- Will walk us through OWASP Zed Attack Proxy (ZAP)  
+ --- Will walk us through OWASP Zed Attack Proxy (ZAP) ([PDF](assets/presentations/2020-01/20200120-OWASPDorset-ZAP-DanielW.pdf "wikilink")) 
 ##### Mike Warner (Software Enginerr @ JPMC) 
- --- Wireless De-auth attacks and handshake captures ([PDF](assets/presentations/2020_01/OWASP-wlans.pdf "wikilink"))  
+ --- Wireless De-auth attacks and handshake captures ([PDF](assets/presentations/2020-01/OWASP-wlans.pdf "wikilink"))  
 ##### Anthony Grimes (Software Engineer @ JPMC) 
- --- WebAuthn: A new standard in securing ourselves online ([PDF](assets/presentations/2020_01/OWASP-WebAuthn-A-new-standard-in-securing-ourselves-online.pdf "wikilink"))  
+ --- WebAuthn: A new standard in securing ourselves online ([PDF](assets/presentations/2020-01/OWASP-WebAuthn-A-new-standard-in-securing-ourselves-online.pdf "wikilink"))  
 ##### Sophia McCall (Cyber Hunter) 
  --- Hunted? Hunter! (An insight into my time on Hunted (Channel 4) as a cyber hunter, detailing the techniques we used to find the fugitives on the show)  
 
 --------
-### 2019-10 OWASP Dorset CTF
+### 2019-10 OWASP Dorset CTF (Meetup #5)
 ##### Location: 1 Chaseside, Bournemouth BH7 7DA
 ##### Time: 18:00 - 21:00
 OWASP Dorset will be hosting a Capture the Flag event. It is scenario based and we would like to see people pairing up to tackle the challenges and share knowledge, we welcome all skill levels and have experienced volunteers on hand to provide advice guidance and clues! The event will open with a crash course on CTF strategy. We are very fortunate to be granted access to Bournemouth University's cyber lab and equipment so all tools will be provided. Hope to see you there!
 
 --------
-### 2019-09 Meetup Collider
+### 2019-09 Meetup Collider (Meetup #4)
 #### TALKS:
 ##### Daniel Warden (OWASP Dorset Chapter leader) 
 --- An Introduction to OWASP - An introduction to OWASP what it does and how to make use of some of it's resources from Daniel Warden & Mark Davison
@@ -58,7 +67,7 @@ from a recent graduate. ([PDF](assets/presentations/2019-06/OWASP_Mark_Davison_P
 Led by the OWASP Dorset Chapter Leads, we are keen to hear your thoughts.
 
 --------
-### 2019-04
+### 2019-04 Meetup #2
 ##### Location: Executive Business Centre, Bournemouth University, 89 Holdenhurst Road, Bournemouth, BH8 8EB
 ##### Time: Doors Open at 6:30pm for registration, pizza, drinks and networking. The talks start at 7:15pm (we start on time), close meeting by 9.00pm
 #### TALKS:
@@ -66,7 +75,7 @@ Led by the OWASP Dorset Chapter Leads, we are keen to hear your thoughts.
 --- Cyber Kill Chains: Understanding how intelligence works can give you the edge when your website, data or email service is being hacked. With a real life case study, we'll be exploring three analysis tools - Cyber Kill Chains, Diamond Models and the Intelligence cycle. David will show how you can use these tools to understand what your adversary is actually doing, how close to 'the Crown Jewels' they've got, how to find their identity, their attributes and most importantly of all, what you can do to stop them. ([PDF](assets/presentations/2019-04/Cyber_Kill_Chains-11-Apr-19-OWASP-Dorset.pdf "wikilink"))
 
 --------
-### 2019-01
+### 2019-01 Meetup #1
 ##### Location: 3 Sided Cube, Telephone House, 18 Christchurch Road, Bournemouth, Dorset, England, BH1 3NE
 ##### Time: Doors Open at 6:30pm for registration, pizza, drinks and networking. The talks start at 7:00pm (we start on time), close meeting by 9.00pm
 ### TALKS:
