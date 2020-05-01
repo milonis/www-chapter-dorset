@@ -18,7 +18,7 @@ tags: dorset
 ##### Mark Davison (OWASP Dorset Chapter Leader)
 --- Larabee the Reveal: Mark will reveal how to pop Larabee the only box which wasn't beaten at the CTF 
 ##### Milton Kandias (Red Team analyst )
---- Red Teaming - OSINT - Phishing
+--- Red Teaming - OSINT - Phishing ([PDF](assets/presentations/2020-04/RT_OSINT_Phishing.pdf "wikilink"))
 
 --------
 ### 2020-01 Meetup Collider (Meetup #6)
