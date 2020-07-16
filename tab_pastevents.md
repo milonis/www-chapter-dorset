@@ -16,7 +16,7 @@ tags: dorset
 ##### Time: 18:30 - 20:00
 #### Talks
 ##### Shruti Kulkarni (Enterprise Security Architect)
---- Security of Containers ([PDF](assets/presentations/2020-07/Security-Of-Containers-Shruti-Kulkarni.pdf "wikilink"))
+--- Security of Containers ([PDF](assets/presentations/2020-07/Security-Of-Containers-Shruti-Kulkarni.pdf "wikilink")) ([VIDEO](https://youtu.be/pvqg7lUy7Fc?t=124))
 
 --------
 ### 2020-04 Lockdown (Meetup #7) 
@@ -25,7 +25,7 @@ tags: dorset
 #### Talks
 ##### Mark Davison (OWASP Dorset Chapter Leader) ([VIDEO](https://www.youtube.com/watch?v=TgC3tF8e9JY))
 --- Larabee the Reveal: Mark will reveal how to pop Larabee the only box which wasn't beaten at the CTF 
-##### Milton Kandias (Red Team analyst)
+##### Miltiadis Kandias (Red Team analyst)
 --- Red Teaming - OSINT - Phishing ([PDF](assets/presentations/2020-04/RT_OSINT_Phishing.pdf "wikilink"))
 
 --------
