@@ -6,6 +6,9 @@ tags: dorset chapter meetup ctf
 level: 4
 region: Europe
 currency: gbp
+meetup-group: OWASP-Dorset-Chapter
+country: United Kingdom
+postal-code: 
 
 ---
 
