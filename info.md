@@ -5,4 +5,5 @@ Welcome to the Dorset chapter homepage. Founded in 2019 we aim to develop a dyna
 * [Meetup](https://www.meetup.com/OWASP-Dorset-Chapter/)
 * [Twitter](https://twitter.com/OWASP)
 * [LinkedIn](https://www.linkedin.com/company/owasp-dorset)
+* [Slack](https://owasp.slack.com/signup#/)
 
