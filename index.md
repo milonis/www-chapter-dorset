@@ -62,4 +62,6 @@ We hope you enjoy our events, we care deeply about inclusivity and diversity so 
 
 ## Events
 See [Meetup](https://www.meetup.com/OWASP-Dorset-Chapter) for all our Past and Future events.
+{% include chapter_events.html group=page.meetup-group %}
+
 
