@@ -11,7 +11,16 @@ tags: dorset
 
 ## Past Events
 --------
-### 2020-07 Lockdown (Meetup #8) 
+### 2020-10 SemGrep (Meetup #9) 
+##### Location: Online Only
+##### Time: 18:30 - 20:00
+#### Talks
+##### Bence Nagy (Software Engineer)
+--- Detect complex code patterns using
+    semantic grep ([PDF](assets/presentations/2020-10/OWASP Dorset 2020-10-08.pdf "wikilink")) ([VIDEO](https://www.youtube.com/watch?v=6OPvxvTQAGs)
+
+--------
+### 2020-07 Security of Containers (Meetup #8) 
 ##### Location: Online Only
 ##### Time: 18:30 - 20:00
 #### Talks
@@ -19,7 +28,7 @@ tags: dorset
 --- Security of Containers ([PDF](assets/presentations/2020-07/Security-Of-Containers-Shruti-Kulkarni.pdf "wikilink")) ([VIDEO](https://youtu.be/pvqg7lUy7Fc?t=124))
 
 --------
-### 2020-04 Lockdown (Meetup #7) 
+### 2020-04 Open Source Intelligence (Meetup #7) 
 ##### Location: Online Only
 ##### Time: 18:30 - 20:00
 #### Talks
