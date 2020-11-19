@@ -31,38 +31,38 @@ We also welcome donations from organisations for individual OWASP events, donati
 <tr>
 <td>
 
-<img src="assets/images/3SIDEDCUBE_logo.jpg" alt="3-Sided-Cube"/>
+<img src="assets/images/3SIDEDCUBE_logo.jpg" alt="3-Sided-Cube" width="100"/>
 
 </td>
 <td>
 
 
-<img src="assets/images/WardenGroupLtd-Logo3.png" alt="WardenGroup"/>
+<img src="assets/images/WardenGroupLtd-Logo3.png" alt="WardenGroup" width="100"/>
 
 </td>
 <td>
-<img src="assets/images/Bournemouth_University_Logo.jpg" alt="Bournemouth University"/>
-
-
-</td>
-</tr>
-<tr>
-<td>
-<img src="assets/images/Hays_Digital_Technology.png" alt="Hays Digital"/>
-
-</td>
-<td>
-<img src="assets/images/Barclays-EL-Standard-White-Eagle-Logo-RGB.jpg" alt="Barclays"/>
-
-</td>
-<td>
+<img src="assets/images/Bournemouth_University_Logo.jpg" alt="Bournemouth University" width="100"/>
 
 
 </td>
 </tr>
 <tr>
 <td>
-<img src="assets/images/security_innovation_logo.png" alt="Security Innovation"/>
+<img src="assets/images/Hays_Digital_Technology.png" alt="Hays Digital" width="100"/>
+
+</td>
+<td>
+<img src="assets/images/Barclays-EL-Standard-White-Eagle-Logo-RGB.jpg" alt="Barclays" width="100"/>
+
+</td>
+<td>
+
+
+</td>
+</tr>
+<tr>
+<td>
+<img src="assets/images/security_innovation_logo.png" alt="Security Innovation" width="100"/>
 
 </td>
 </tr>
