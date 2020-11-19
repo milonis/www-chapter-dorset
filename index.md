@@ -56,6 +56,10 @@ We also welcome donations from organisations for individual OWASP events, donati
 
 </td>
 <td>
+
+
+</td>
+<td>
 <img src="assets/images/security_innovation_logo.png" alt="Security Innovation"/>
 
 </td>
