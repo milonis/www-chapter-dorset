@@ -11,13 +11,18 @@ tags: dorset
 
 ## Past Events
 --------
+### 2020-11 OWASP Dorset CTF (Meetup #10)
+##### Location: Online
+##### Time: 18:00 - 21:00
+--- OWASP Dorset will be hosting an Online Capture the Flag event with Security Innovation.
+
+--------
 ### 2020-10 SemGrep (Meetup #9) 
 ##### Location: Online Only
 ##### Time: 18:30 - 20:00
 #### Talks
 ##### Bence Nagy (Software Engineer)
---- Detect complex code patterns using
-    semantic grep ([PDF](assets/presentations/2020-10/OWASP Dorset 2020-10-08.pdf "wikilink")) ([VIDEO](https://www.youtube.com/watch?v=6OPvxvTQAGs))
+--- Detect complex code patterns using semantic grep ([PDF](assets/presentations/2020-10/OWASP Dorset 2020-10-08.pdf "wikilink")) ([VIDEO](https://www.youtube.com/watch?v=6OPvxvTQAGs))
 
 --------
 ### 2020-07 Security of Containers (Meetup #8) 

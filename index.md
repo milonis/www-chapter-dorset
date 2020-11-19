@@ -13,10 +13,16 @@ postal-code:
 ---
 
 ## Participation
-OWASP Foundation (Overview Slides) is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are run independently and guided by the Chapter Leader Handbook. As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the speaker agreement and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
+OWASP Foundation is a professional association of global members and is open to anyone interested in learning more about software security. 
+
+Local chapters are run independently and guided by the Chapter Leader Handbook. 
+As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. 
+Financial contributions should only be made online using the authorized online chapter donation button. 
+
 
 ## Chapter Sponsors
-We welcome OWASP Corporate Members who would like to align themselves with the Dorset chapter, therefore contributing funds to our chapter and allowing us to host more events. Sponsor OWASP Dorset Chapter.
+We welcome OWASP Members who would like to align themselves with the Dorset chapter, therefore contributing funds to our chapter and allowing us to host more events. 
+
 
 ## Event Sponsors
 We also welcome donations from organisations for individual OWASP events, donations can be from providing event space to hosting a meetup or financial donation which is put towards providing refreshments at the event and providing a buffer fund to help the chapter support the community and allow us to bring in speakers from further afield.
@@ -47,6 +53,10 @@ We also welcome donations from organisations for individual OWASP events, donati
 </td>
 <td>
 <img src="assets/images/Barclays-EL-Standard-White-Eagle-Logo-RGB.jpg" alt="Barclays"/>
+
+</td>
+<td>
+<img src="assets/images/security_innovation_logo.png" alt="Security Innovation"/>
 
 </td>
 </tr>
