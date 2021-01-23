@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Dorset
-tags: dorset chapter meetup ctf
+tags: dorset chapter events meetup ctf security inclusive
 level: 4
 region: Europe
 currency: gbp
@@ -11,21 +11,17 @@ country: United Kingdom
 postal-code: 
 
 ---
+Welcome to the Dorset Chapter. Our chapter leaders are [Daniel Warden](mailto:daniel.warden@owasp.org), [Mark Davison](mailto:mark.davison@owasp.org) and [Alexios Mylonas](mailto:alexios.mylonas@owasp.org).
+
+We are a welcoming and inclusive chapter no matter your background with cyber security professionals, students and enthusiasts. We aim to educate, inform and entertain with every event.
 
 ## Participation
-OWASP Foundation is a professional association of global members and is open to anyone interested in learning more about software security. 
-
-Local chapters are run independently and guided by the Chapter Leader Handbook. 
-As a 501(c)(3) non-profit professional association your support and sponsorship of any meeting venue and/or refreshments is tax-deductible. 
-Financial contributions should only be made online using the authorized online chapter donation button. 
-
-
-## Chapter Sponsors
-We welcome OWASP Members who would like to align themselves with the Dorset chapter, therefore contributing funds to our chapter and allowing us to host more events. 
+Due to the current situation our events are entirely virtual until further notice.  
+Welcome to the Dorset chapter, whether this is your first time thinking about security, or you have been involved in security for decades; everyone is welcome. All events are free to attend thanks to the generous support from our sponsors. OWASP Dorset is a volunteer lead and run chapter with everyone involved donating, their time and expertise including you as an attendee. OWASP Dorset is a welcoming place to facilitate inclusion we have a [code of conduct](https://www.owasp.org/index.php/Governance/Conference_Policies) to ensure everyone feels comfortable and benefits from participation. If you face any issues at an event or with one of our participants please contact one of the chapter leaders and we will endeavour to address your issue as swiftly as possible. 
 
 
 ## Event Sponsors
-We also welcome donations from organisations for individual OWASP events, donations can be from providing event space to hosting a meetup or financial donation which is put towards providing refreshments at the event and providing a buffer fund to help the chapter support the community and allow us to bring in speakers from further afield.
+These organisations have generously supported one of our events
 
 <table cellpadding="15" cellspacing="0">
 <tr>
@@ -63,11 +59,11 @@ We also welcome donations from organisations for individual OWASP events, donati
 </table>
 
 ## Speaking at OWASP Dorset Chapter Events
-Call For Speakers is always open - if you would like to present a talk on any aspect of cyber security at a future OWASP Dorset Chapter event - please review and ensure you agree with the OWASP Speaker Agreement and send the proposed talk title, abstract and speaker bio to any of our Chapter Leaders.
+Call For Speakers is [open](mailto:mark.davison@owasp.org) - if you would like to present a talk on any aspect of cyber security at an OWASP Dorset Chapter event please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via [e-mail](mailto:mark.davison@owasp.org).
 We also welcome people new to public speaking and can offer advice and coaching. We are a friendly and supportive community, come give your first talk with us!
 
 ## Code of Conduct
-We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leader if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies).
+We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP Dorset is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies).
 
 
 ## Events
