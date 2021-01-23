@@ -8,7 +8,7 @@ order: 3
 tags: dorset
 
 ---
-Your support helps OWASP Dorset to put on events and attract speakers from around the world as well as helping us to engage the community and improve everyone's Cyber Security Awareness. 
+Your support helps OWASP Dorset to put on events and atract speakers from around the world as well as helping us to engage the community and improve everyone's Cyber Security Awareness. 
 
 # Individuals
 Becoming a supporter of OWASP Dorset is a great way to meet people, discover careers and support your community.
@@ -17,7 +17,7 @@ You can support OWASP Dorset in a variety of ways:
 
 **Attend our meetups and other events -** the more people who attend our chapter events the more sponsorship we can atract and the better funded our chapter will be to keep bringing you great events.
 
-**Become a speaker -** giving a talk at our meetups is a great way to get involved and share you're knowledge, everyone has something new to teach us and we love to have a diversity of content. We also offer support and guidance on giving a talk if you fancy taking the plunge for the first time and aren't sure what you'd like to talk about. We know you are working on some incredible things, we'd love to be able to share your knowledge and build a stronger, safer community.
+**Become a speaker -** giving a talk at our meetups is a great way to get involved and share your knowledge, everyone has something new to teach us and we love to have a diversity of content. We also offer support and guidance on giving a talk if you fancy taking the plunge for the first time and aren't sure what you'd like to talk about. We know you are working on some incredible things, we'd love to be able to share your knowledge and build a stronger, safer community.
 
 **Donate membership-** You can support OWASP Dorset to put on events by becoming an OWASP member and donating your [membership fee](https://owasp.org/membership/) to us (we will receive up to 90%).
 
