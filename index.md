@@ -16,8 +16,11 @@ Welcome to the Dorset Chapter. Our chapter leaders are [Daniel Warden](mailto:da
 We are a welcoming and inclusive chapter no matter your background, our membership is made up of cyber security professionals, students, enthusiasts and newcomers, all are welcome. We aim to educate, inform and entertain with every event.
 
 ## Participation
-Due to the current situation our events are entirely virtual until further notice.  
-Welcome to the Dorset chapter, whether this is your first time thinking about security, or you have been involved in security for decades; everyone is welcome. All events are free to attend thanks to the generous support from our sponsors. OWASP Dorset is a volunteer lead and run chapter with everyone involved donating, their time and expertise including you as an attendee. OWASP Dorset is a welcoming place to facilitate inclusion we have a [code of conduct](https://www.owasp.org/index.php/Governance/Conference_Policies) to ensure everyone feels comfortable and benefits from participation. If you face any issues at an event or with one of our participants please contact one of the chapter leaders and we will endeavour to address your issue as swiftly as possible. 
+Due to the current situation our events are entirely virtual until further notice.
+
+Welcome to the Dorset chapter, whether this is your first time thinking about security, or you have been involved in security for decades; everyone is welcome. All events are free to attend thanks to the generous support of our sponsors. OWASP Dorset is a volunteer lead and run chapter with everyone involved donating, their time and expertise including our attendees. 
+
+OWASP Dorset is a welcoming community, to facilitate inclusion we have a [code of conduct](https://www.owasp.org/index.php/Governance/Conference_Policies) to ensure everyone feels comfortable and benefits from participation. If you face any issues at an event or with one of our participants please contact one of the chapter leaders and we will endeavour to address your issue as swiftly as possible. 
 
 
 ## Event Sponsors
