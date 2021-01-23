@@ -69,7 +69,7 @@ We also welcome people new to public speaking and can offer advice and coaching.
 We hope you enjoy our events, we care deeply about inclusivity and diversity so that OWASP Dorset is a comfortable and welcoming community for everyone. Please reach out to one of our chapter leaders if you have any feedback or would like to speak to us, we take these matters very seriously. You can find out more about our policies [here](https://www.owasp.org/index.php/Governance/Conference_Policies).
 
 
-## Events
+## Upcoming Events
 
 {% include chapter_events.html group=page.meetup-group %}
 

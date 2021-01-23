@@ -19,7 +19,7 @@ You can support OWASP Dorset in a variety of ways:
 
 **Become a speaker -** giving a talk at our meetups is a great way to get involved and share you're knowledge, everyone has something new to teach us and we love to have a diversity of content. We also offer support and guidance on giving a talk if you fancy taking the plunge for the first time and aren't sure what you'd like to talk about. We know you are working on some incredible things, we'd love to be able to share your knowledge and build a stronger, safer community.
 
-**Donate membership-** You can support OWASP Dorset to put on events by becoming an OWASP member and donating your [membership fee](https://owasp.org/membership/) to us (we will recieve up to 90%).
+**Donate membership-** You can support OWASP Dorset to put on events by becoming an OWASP member and donating your [membership fee](https://owasp.org/membership/) to us (we will receive up to 90%).
 
 **Donate -** You can also [donate](https://owasp.org/donate/?reponame=owasp.github.io) directly to the Chapter
 
@@ -37,6 +37,6 @@ There are many ways you can help:
 
 **Speaker --** Encourage your staff to give a talk at one of our meetups, it's amazing what businesses in Dorset are doing and how they are helping to protect against cyber threats, there is a huge amount of work being done in Dorset and sharing your knowledge helps to make us all stronger.
 
-*Please be assured that the leaders of OWASP Dorset are volunteers who are not paid for their time or personal expenses. Speakers are also volunteers who are only reimbursed for expenses directly related to the event they are participating in if they request it but in most cases our speakers generously cover their own costs. You can read more OWASP's expense policy [here](https://owasp.org/www-policy/operational/expense-reimbursement) and review OWASP's finances [here](https://owasp.org/finance/).
+*Please be assured that the leaders of OWASP Dorset are volunteers who are not paid for their time or personal expenses. Speakers are also volunteers who are only reimbursed for expenses directly related to the event they are participating in if they request it but in most cases our speakers generously cover their own costs. You can read OWASP's expense policy [here](https://owasp.org/www-policy/operational/expense-reimbursement) and review OWASP's finances [here](https://owasp.org/finance/). As a chapter we can receive up to 90% of your donation with 10% going directly to OWASP Global.
 
 
