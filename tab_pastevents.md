@@ -14,7 +14,9 @@ tags: dorset
 ### 2021-02 Cyber Security Policing (Meetup #11)
 ##### Location: Online
 ##### Time: 19:00 - 20:00
---- Mantas will be explaining how a recent Facebook phishing campaign was uncovered. ([PDF](assets/presentations/2021-02/owasp_phish_presentation.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=157))  
+##### Mantas Sasnauskas (Senior Information Security Researcher @ CyberNews)
+--- Mantas will be explaining how a recent Facebook phishing campaign was uncovered. ([PDF](assets/presentations/2021-02/owasp_phish_presentation.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=157))
+##### Chris Conroy (Cyber Protect Officer @ Dorset Police)
 --- Chris will be talking us through Cyber Pursue, Protect and Prevent (investigative, safeguarding and intervention strategies) as well as the type, scale and cost   of crimes reported locally (Dorset) and nationally. ([PDF](assets/presentations/2021-02/DorPol_Owasp.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=2088))  
   
 
@@ -47,7 +49,7 @@ tags: dorset
 #### Talks
 ##### Mark Davison (OWASP Dorset Chapter Leader) ([VIDEO](https://www.youtube.com/watch?v=TgC3tF8e9JY))
 --- Larabee the Reveal: Mark will reveal how to pop Larabee the only box which wasn't beaten at the CTF 
-##### Miltiadis Kandias (Red Team analyst)
+##### Miltiadis Kandias (Red Team Analyst)
 --- Red Teaming - OSINT - Phishing ([PDF](assets/presentations/2020-04/RT_OSINT_Phishing.pdf "wikilink"))
 
 --------
@@ -57,7 +59,7 @@ tags: dorset
 #### Talks  
 ##### Daniel Warden (OWASP Dorset Chapter Leader) 
  --- Will walk us through OWASP Zed Attack Proxy (ZAP) ([PDF](assets/presentations/2020-01/20200120-OWASPDorset-ZAP-DanielW.pdf "wikilink")) 
-##### Mike Warner (Software Enginerr @ JPMC) 
+##### Mike Warner (Software Engineer @ JPMC) 
  --- Wireless De-auth attacks and handshake captures ([PDF](assets/presentations/2020-01/OWASP-wlans.pdf "wikilink"))  
 ##### Anthony Grimes (Software Engineer @ JPMC) 
  --- WebAuthn: A new standard in securing ourselves online ([PDF](assets/presentations/2020-01/OWASP-WebAuthn-A-new-standard-in-securing-ourselves-online.pdf "wikilink"))  
@@ -73,13 +75,13 @@ OWASP Dorset will be hosting a Capture the Flag event. It is scenario based and 
 --------
 ### 2019-09 Meetup Collider (Meetup #4)
 #### TALKS:
-##### Daniel Warden (OWASP Dorset Chapter leader) 
+##### Daniel Warden (OWASP Dorset Chapter Leader) 
 --- An Introduction to OWASP - An introduction to OWASP what it does and how to make use of some of it's resources from Daniel Warden & Mark Davison
-##### Mark Davison (OWASP Dorset Chapter leader) 
+##### Mark Davison (OWASP Dorset Chapter Leader) 
 --- Making use of OWASP resources: Cheat sheets
-##### James Riley (Specialist penetration tester recruiter for ARM) 
+##### James Riley (Specialist Penetration Tester Recruiter for ARM) 
 --- Routes to becoming a Penetration Tester - A talk about the ways people come to penetration testing and how what you expect may not always be true. ([PDF](assets/presentations/2019-09/OWASP_JR.pdf "wikilinks"))
-##### Mike Warner (Software Enginerr @ JPMC) AppSec 101 
+##### Mike Warner (Software Engineer @ JPMC) AppSec 101 
 --– A break down of the theory behind web application vulnerabilities and provides a handful of payload examples to exploit the most common weaknesses: SQL Injection, Cross site scripting (XSS), Path Traversal, and Command “OS” injection from Mike Warner
 
 --------
@@ -113,6 +115,6 @@ Led by the OWASP Dorset Chapter Leads, we are keen to hear your thoughts.
 --- OWASP Dorset Introduction, Welcome and News
 --- OWASP Projects - Open Source Security at its finest([PDF](assets/presentations/2019-01/OWASP_Dorset_Chapter_Meeting_Jan_2019_Introduction_And_Talk_1-OWASP_Projects.pdf "wikilink"))
 Overview of OWASP Projects Top 3 Flagship, Lab and Incubator | Focusing on how to fire up your stance on security with minimal investment.
-##### Dr. Alexios Mylonas (Program leader for the BSc (Hons) Forensic Computing and Security @ Bournemouth University. Lecturer in Computing.)
+##### Dr. Alexios Mylonas (Program Leader for the BSc (Hons) Forensic Computing and Security @ Bournemouth University. Lecturer in Computing.)
 --- I Know What You Did Last Summer: New persistent tracking mechanisms used in the wild
     Web Storage, Indexed Database API and Web SQL Database allow web browsers to store information in the client in a much more advanced way compared to other techniques, such as HTTP Cookies. They were originally introduced with the goal of enhancing the capabilities of websites, however, they are often exploited as a way of tracking users across multiple sessions and websites. The presentation will be divided into two parts. First, it will quantify the usage of these three primitives in the context of user tracking. This is done by performing a large-scale analysis on the usage of these techniques in the wild. The second part reviews the effectiveness of the removal of client-side storage data in modern browsers.([PDF](assets/presentations/2019-01/OWASP_Dorset_Chapter_Meeting_Jan_2019_Talk_2_Web_Tracking.pdf "wikilink")])
