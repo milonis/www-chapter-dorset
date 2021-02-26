@@ -11,6 +11,14 @@ tags: dorset
 
 ## Past Events
 --------
+### 2021-02 Cyber Security Policing (Meetup #11)
+##### Location: Online
+##### Time: 19:00 - 20:00
+--- Mantas will be explaining how a recent Facebook phishing campaign was uncovered. ([PDF](assets/presentations/2021-02/owasp_phish_presentation.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=157))  
+--- Chris will be talking us through Cyber Pursue, Protect and Prevent (investigative, safeguarding and intervention strategies) as well as the type, scale and cost   of crimes reported locally (Dorset) and nationally. ([PDF](assets/presentations/2021-02/DorPol_Owasp.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=2088))  
+  
+
+--------
 ### 2020-11 OWASP Dorset CTF (Meetup #10)
 ##### Location: Online
 ##### Time: 18:00 - 21:00
