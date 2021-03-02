@@ -5,5 +5,5 @@ Founded in 2019 by Daniel Warden we aim to develop a dynamic and vibrant communi
 * [Meetup](https://www.meetup.com/OWASP-Dorset-Chapter/)
 * [Twitter](https://twitter.com/OWASP)
 * [LinkedIn](https://www.linkedin.com/company/owasp-dorset)
-* [Slack](https://owasp.slack.com/signup#/)
+* [Slack](https://owasp.org/slack/invite)
 
