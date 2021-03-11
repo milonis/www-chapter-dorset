@@ -23,7 +23,7 @@ Welcome to the Dorset chapter, whether this is your first time thinking about se
 OWASP Dorset is a welcoming community, to facilitate inclusion we have a [code of conduct](https://www.owasp.org/index.php/Governance/Conference_Policies) to ensure everyone feels comfortable and benefits from participation. If you face any issues at an event or with one of our participants please contact one of the chapter leaders and we will endeavour to address your issue as swiftly as possible. 
 
 
-## Event Sponsors
+## Event Supporters
 These organisations have generously supported one of our events
 
 <table cellpadding="15" cellspacing="0">
