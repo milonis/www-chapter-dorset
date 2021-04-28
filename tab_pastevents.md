@@ -11,6 +11,14 @@ tags: dorset
 
 ## Past Events
 --------
+### 2021-04 Defensive (Meetup #12)
+##### Location: Online
+##### Time: 19:00 - 20:00
+##### Nigel Kay (Full-Stack Software Developer)
+--- Nigel will be discussing defensive programming and how to avoid common security web vulnerabilities. Nigel will be exploiting some basic vulnerabilities live on a test application and showing how simple changes to the code can prevent them. ([VIDEO](https://www.youtube.com/watch?v=oJrsyRdCUv8))
+
+
+--------
 ### 2021-02 Cyber Security Policing (Meetup #11)
 ##### Location: Online
 ##### Time: 19:00 - 20:00
