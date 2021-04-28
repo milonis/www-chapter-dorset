@@ -11,7 +11,7 @@ tags: dorset
 
 ## Past Events
 --------
-### 2021-04 Defensive (Meetup #12)
+### 2021-04 Defensive Programming (Meetup #12)
 ##### Location: Online
 ##### Time: 19:00 - 20:00
 ##### Nigel Kay (Full-Stack Software Developer)
