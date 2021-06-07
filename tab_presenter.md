@@ -12,7 +12,7 @@ tags: dorset
 # Presenter Resources
 
 ## OWASP Presenter Agreement
-All presenters should review and agree to the [OWASP Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
+All presenters should review and agree to the [OWASP Speaker Agreement](https://owasp.org/www-policy/)
 
 ## OWASP Powerpoint Templates
 * [owasp_ppt_2013_1](assets/presentations/templates/owasp_ppt_2013_1.pptx "wikilink")
