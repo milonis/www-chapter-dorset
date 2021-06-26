@@ -16,13 +16,13 @@ tags: dorset
 ##### Time: 18:00 - 20:00
 ##### Clint Gibler
 --- Joint event lead by [OWASP Bristol](https://owasp.org/www-chapter-bristol-uk/), with [OWASP Suffolk](https://owasp.org/www-chapter-suffolk/), and [OWASP Reading](https://owasp.org/www-chapter-reading/) In this talk, we’ll present [Semgrep](https://semgrep.dev), an open source, lightweight static analysis tool. It's like a code-aware grep, enabling you to easily search for complicated code patterns without writing painful abstract syntax tree (AST) visitors or using heavyweight, expensive, proprietary traditional SAST tools. ([VIDEO](https://youtu.be/0Onzb7zQ7fs))
+
 --------
 ### 2021-04 Defensive Programming (Meetup #12)
 ##### Location: Online
 ##### Time: 19:00 - 20:00
 ##### Nigel Kay (Full-Stack Software Developer)
 --- Nigel will be discussing defensive programming and how to avoid common security web vulnerabilities. Nigel will be exploiting some basic vulnerabilities live on a test application and showing how simple changes to the code can prevent them. ([VIDEO](https://www.youtube.com/watch?v=oJrsyRdCUv8))
-
 
 --------
 ### 2021-02 Cyber Security Policing (Meetup #11)
@@ -31,8 +31,7 @@ tags: dorset
 ##### Mantas Sasnauskas (Senior Information Security Researcher @ CyberNews)
 --- Mantas will be explaining how a recent Facebook phishing campaign was uncovered. ([PDF](assets/presentations/2021-02/owasp_phish_presentation.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=157))
 ##### Chris Conroy (Cyber Protect Officer @ Dorset Police)
---- Chris will be talking us through Cyber Pursue, Protect and Prevent (investigative, safeguarding and intervention strategies) as well as the type, scale and cost   of crimes reported locally (Dorset) and nationally. ([PDF](assets/presentations/2021-02/DorPol_Owasp.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=2088))  
-  
+--- Chris will be talking us through Cyber Pursue, Protect and Prevent (investigative, safeguarding and intervention strategies) as well as the type, scale and cost   of crimes reported locally (Dorset) and nationally. ([PDF](assets/presentations/2021-02/DorPol_Owasp.pdf "wikilink"))([VIDEO](https://youtu.be/-dqH_djEjyo?t=2088))
 
 --------
 ### 2020-11 OWASP Dorset CTF (Meetup #10)
