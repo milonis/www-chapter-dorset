@@ -11,6 +11,12 @@ tags: dorset
 
 ## Past Events
 --------
+### 2021-06 Enforcing Code & Security Standards with Semgrep (Meetup #13)
+##### Location: Online
+##### Time: 18:00 - 20:00
+##### Clint Gibler
+--- Joint event lead by [OWASP Bristol](https://owasp.org/www-chapter-bristol-uk/), with [OWASP Suffolk](https://owasp.org/www-chapter-suffolk/), and [OWASP Reading](https://owasp.org/www-chapter-reading/) In this talk, we’ll present [Semgrep](https://semgrep.dev), an open source, lightweight static analysis tool. It's like a code-aware grep, enabling you to easily search for complicated code patterns without writing painful abstract syntax tree (AST) visitors or using heavyweight, expensive, proprietary traditional SAST tools. ([VIDEO](https://youtu.be/0Onzb7zQ7fs))
+--------
 ### 2021-04 Defensive Programming (Meetup #12)
 ##### Location: Online
 ##### Time: 19:00 - 20:00
