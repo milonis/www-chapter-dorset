@@ -11,7 +11,7 @@ country: United Kingdom
 postal-code: 
 
 ---
-Welcome to the Dorset Chapter. Our chapter leaders are [Daniel Warden](mailto:daniel.warden@owasp.org), [Mark Davison](mailto:mark.davison@owasp.org) and [Alexios Mylonas](mailto:alexios.mylonas@owasp.org).
+Welcome to the Dorset Chapter. Our chapter leaders are [Mark Davison](mailto:mark.davison@owasp.org), [Alexios Mylonas](mailto:alexios.mylonas@owasp.org), [Mike Warner](mailto:michael.warner@owasp.org) and [Nigel Kay](mailto:nigel.kay@owasp.org).
 
 We are a welcoming and inclusive chapter no matter your background, our community is made up of cyber security professionals, students, enthusiasts and newcomers, all are welcome. We aim to educate, inform and entertain with every event.
 
