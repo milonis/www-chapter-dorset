@@ -16,7 +16,7 @@ Welcome to the Dorset Chapter. Our chapter leaders are [Mark Davison](mailto:mar
 We are a welcoming and inclusive chapter no matter your background, our community is made up of cyber security professionals, students, enthusiasts and newcomers, all are welcome. We aim to educate, inform and entertain with every event.
 
 ## Participation
-Due to the current situation our events are entirely virtual until further notice.
+We are now exploring options to bring back in person events and maintain our online content.
 
 Welcome to the Dorset chapter, whether this is your first time thinking about security, or you have been involved in security for decades; everyone is welcome. All events are free to attend thanks to the generous support of our sponsors. OWASP Dorset is a volunteer led and run chapter with everyone involved donating, their time and expertise including our attendees. 
 

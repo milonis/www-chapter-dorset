@@ -11,11 +11,23 @@ tags: dorset
 
 ## Past Events
 --------
+### 2021-09 Respect in Security (Meetup #14)
+##### Location: Online
+##### Time: 18:00 - 19:00
+--- Joint event with [OWASP Bristol](https://owasp.org/www-chapter-bristol-uk/) and [OWASP Reading](https://owasp.org/www-chapter-reading/)
+##### Varun Kulkarni
+--- Replacing JavaScript with Python in an interactive server-side UI framework that builds upon an MVC framework. The framework allows all the user data and code to be stored on the server while transmitting the information between the client and the server over a secure WebSocket ([VIDEO](https://youtu.be/dpoRwKr-vds?t=243))
+##### Nikki Webb
+--- [Respect In Security](https://respectinsecurity.org/), three very simple yet important words, it may sound like a fairly obvious statement but sadly it is not, according to our research, more than a third of Infosec professionals have experienced harassment or abuse from their peers. The other founders of Respect in Security and I, have taken a stand to help encourage more positive and inclusive behaviour and to help support those victims of harassment. I will be telling you all a little more about how we are planning on doing just that. ([VIDEO](https://www.youtube.com/watch?v=dpoRwKr-vds&t=1165s))    
+If you have been a victim of online harassment you can contact [The Cyber Helpline](https://www.thecyberhelpline.com/) for immediate advice. If you are a victim of cyber crime you are advised to report the crime immediately to [Action Fraud](http://www.actionfraud.police.uk/report_fraud) or in Scotland to [Police Scotland](http://www.scotland.police.uk/contact-us/report-cybercrime)
+
+--------
 ### 2021-06 Enforcing Code & Security Standards with Semgrep (Meetup #13)
 ##### Location: Online
 ##### Time: 18:00 - 20:00
+--- Joint event lead by [OWASP Bristol](https://owasp.org/www-chapter-bristol-uk/), with [OWASP Suffolk](https://owasp.org/www-chapter-suffolk/), and [OWASP Reading](https://owasp.org/www-chapter-reading/) 
 ##### Clint Gibler
---- Joint event lead by [OWASP Bristol](https://owasp.org/www-chapter-bristol-uk/), with [OWASP Suffolk](https://owasp.org/www-chapter-suffolk/), and [OWASP Reading](https://owasp.org/www-chapter-reading/) In this talk, we’ll present [Semgrep](https://semgrep.dev), an open source, lightweight static analysis tool. It's like a code-aware grep, enabling you to easily search for complicated code patterns without writing painful abstract syntax tree (AST) visitors or using heavyweight, expensive, proprietary traditional SAST tools. ([VIDEO](https://youtu.be/0Onzb7zQ7fs))
+--- In this talk, we’ll present [Semgrep](https://semgrep.dev), an open source, lightweight static analysis tool. It's like a code-aware grep, enabling you to easily search for complicated code patterns without writing painful abstract syntax tree (AST) visitors or using heavyweight, expensive, proprietary traditional SAST tools. ([VIDEO](https://youtu.be/0Onzb7zQ7fs))
 
 --------
 ### 2021-04 Defensive Programming (Meetup #12)
