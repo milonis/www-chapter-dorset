@@ -11,6 +11,12 @@ tags: dorset
 
 ## Past Events
 --------
+### 2021-11 OWASP Dorset CTF (Meetup #15)
+##### Location: Online
+##### Time: 18:00 - 22:00
+--- OWASP Dorset will be hosting an Online Capture the Flag event with Security Innovation. In collaboration with OWASP Diversity and Inclusion Committee and many OWASP UK Chapters (including: Bristol, Cambridge, London, Newcastle and Reading)
+
+--------
 ### 2021-09 Respect in Security (Meetup #14)
 ##### Location: Online
 ##### Time: 18:00 - 19:00
