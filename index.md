@@ -2,6 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Dorset
+site_side: true
 tags: dorset chapter events meetup ctf security inclusive
 level: 4
 region: Europe
