@@ -6,4 +6,5 @@
 * [Mike Warner](mailto:michael.warner@owasp.org)
 
 ### Twitter Feed
-Tweets by OWASP Dorset <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-width="100%" data-height="600" data-theme="light" href="https://twitter.com/OWASPDorset">Tweets by OWASP Dorset</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
