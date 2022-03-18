@@ -11,6 +11,12 @@ tags: dorset
 
 ## Past Events
 --------
+### 2022-03 OWASP Dorset Secure Coding (Meetup #16)
+##### Location: Online
+##### Time: 18:15- 19:45
+--- OWASP Dorset will be hosting an Secure Coding Tournament with Secure Code Warriror. In partnership with OWASP Bristol and OWASP Suffolk
+
+--------
 ### 2021-11 OWASP Dorset CTF (Meetup #15)
 ##### Location: Online
 ##### Time: 18:00 - 22:00
