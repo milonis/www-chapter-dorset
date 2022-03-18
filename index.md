@@ -12,9 +12,11 @@ country: United Kingdom
 postal-code: 
 
 ---
-Welcome to the Dorset Chapter. Our chapter leaders are [Mark Davison](mailto:mark.davison@owasp.org), [Alexios Mylonas](mailto:alexios.mylonas@owasp.org), [Mike Warner](mailto:michael.warner@owasp.org) and [Nigel Kay](mailto:nigel.kay@owasp.org).
+Welcome to the Dorset Chapter.  
+Our chapter leaders are [Mark Davison](mailto:mark.davison@owasp.org), [Alexios Mylonas](mailto:alexios.mylonas@owasp.org), [Mike Warner](mailto:michael.warner@owasp.org) and [Nigel Kay](mailto:nigel.kay@owasp.org).  
 
-We are a welcoming and inclusive chapter no matter your background, our community is made up of cyber security professionals, students, enthusiasts and newcomers, all are welcome. We aim to educate, inform and entertain with every event.
+
+We are a welcoming and inclusive chapter no matter your background, our community is made up of cyber security professionals, students, enthusiasts and newcomers, all are welcome. We aim to educate, inform and entertain with every event!
 
 ## Participation
 We are now exploring options to bring back in person events and maintain our online content.
@@ -25,7 +27,7 @@ OWASP Dorset is a welcoming community, to facilitate inclusion we have a [code o
 
 ## Chapter Sponsor
 
-We do not currently have any active Chapter Sponsors. If you would like to support OWASP Dorset's activities generally, please contact one of our chapter leads.
+We do not currently have any active Chapter Sponsors. If you would like to support OWASP Dorset's activities generally, please contact one of our chapter leaders.
 
 ## Event Sponsor
 These organisations have generously supported one of our events
