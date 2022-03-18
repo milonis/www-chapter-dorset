@@ -1,10 +1,10 @@
 ---
 
 title: Presenter
-displaytext: Presenter
+displaytext: Presenter Resources
 layout: null
 tab: true
-order: 4
+order: 3
 tags: dorset
 
 ---

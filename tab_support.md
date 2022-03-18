@@ -1,10 +1,10 @@
 ---
 
 title: Support
-displaytext: Support
+displaytext: Sponsorship & Support
 layout: null
 tab: true
-order: 3
+order: 4
 tags: dorset
 
 ---
@@ -31,12 +31,12 @@ There are many ways you can help:
 
 **Donate space -** Donate some of your work space, breakout areas or other space to an OWASP Dorset event. We will add your logo to the Event Sponsor section of our main webpage and thank you at the event, you are also welcome to operate a small booth at the event (subject to conditions) 
 
-**Event Sponsor -** Our event sponsors provide a specific one off [donation](https://owasp.org/donate/?reponame=owasp.github.io) to an individual event which will be used to supply that event with refreshments with any remaining funds going towards covering travel costs of speakers where appropriate and similar expenses. We will add your logo to the Event Sponsor section of our main webpage and thank you at the event, you are also welcome to operate a small booth at the event (subject to conditions)
+**Event Sponsor -** Our event sponsors provide a specific one off [donation](https://owasp.org/donate/?reponame=owasp.github.io) for an individual event which will be used to supply that event with refreshments with any remaining funds going towards covering travel costs of speakers where appropriate and similar expenses. We will add your logo to the Event Sponsor section of our main webpage (for at least 1 year) and thank you at the event, you are also welcome to operate a small booth at the event (subject to conditions)
 
-**Chapter Sponsorship -** You can sponsor the Dorset Chapter and it's activities in general by becoming a Chapter Sponsor either with a one off donation or regularly for a year or more. Your donation will help us to fund events, specifically; "Event Services, Catering, and Space for Chapter Meetings". And in exceptional, Guest Speaker, cases travel expenses dependent on approval from the [OWASP Executive Director](https://owasp.org/www-policy/operational/expense-reimbursement). As a chapter sponsor we will place your logo on our main chapter page under the Chapter Sponsor heading and thank your company at our events. You will also be able to send representatives to attend the events operate a booth at events (subject to conditions).
+**Chapter Sponsorship -** You can sponsor the Dorset Chapter and it's activities in general by becoming a Chapter Sponsor either with a one off donation or regularly for a year or more. Your donation will help us to fund events, specifically; "Event Services, Catering, and Space for Chapter Meetings". And in exceptional, Guest Speaker, cases travel expenses dependent on approval from the [OWASP Executive Director](https://owasp.org/www-policy/operational/expense-reimbursement). As a chapter sponsor we will place your logo on our main chapter page under the Chapter Sponsor heading (for the duration of your sponsorship) and thank your company at our events. You will also be able to send representatives to attend the events and operate a booth at events (subject to conditions).
 
-**Speaker --** Encourage your staff to give a talk at one of our meetups, it's amazing what businesses in Dorset are doing and how they are helping to protect against cyber threats, there is a huge amount of work being done in Dorset and sharing your knowledge helps to make us all stronger.
+**Speaker --** Encourage your staff to give a talk at one of our meetups, it's amazing what businesses in Dorset are doing and how they are helping to protect against cyber threats, there is a huge amount of work being done in Dorset and sharing your knowledge helps to make us all more secure.
 
-*Please be assured that the leaders of OWASP Dorset are volunteers who are not paid for their time or personal expenses. Speakers are also volunteers who are only reimbursed for expenses directly related to the event they are participating in, if they request it, but in most cases our speakers generously cover their own costs. You can read OWASP's expense policy [here](https://owasp.org/www-policy/operational/expense-reimbursement) and review OWASP's finances [here](https://owasp.org/finance/). As a chapter we can receive up to 90% of your donation with 10% going directly to OWASP Global.
+*Please be assured that the leaders of OWASP Dorset are volunteers who are not paid for their time or personal expenses. Speakers are also volunteers who are only reimbursed for expenses directly related to the event they are participating in, should they request it, but in most cases our speakers generously cover their own costs. You can read OWASP's expense policy [here](https://owasp.org/www-policy/operational/expense-reimbursement) and review OWASP's finances [here](https://owasp.org/finance/). As a chapter we can receive up to 90% of your donation with 10% going directly to OWASP Global.
 
 

@@ -23,26 +23,29 @@ Welcome to the Dorset chapter, whether this is your first time thinking about se
 
 OWASP Dorset is a welcoming community, to facilitate inclusion we have a [code of conduct](https://owasp.org/www-policy/) to ensure everyone feels comfortable and benefits from participation. If you face any issues at an event or with one of our participants please contact one of the chapter leaders and we will endeavour to address your issue as swiftly as possible. 
 
+## Chapter Sponsor
 
-## Event Supporters
+We do not currently have any active Chapter Sponsors. If you would like to support OWASP Dorset's activities generally, please contact one of our chapter leads.
+
+## Event Sponsor
 These organisations have generously supported one of our events
 
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
 
+<img src="assets/images/Bournemouth_University_Logo.jpg" alt="Bournemouth University" width="200"/>
+
+</td>
+<td>
+
+
 <img src="assets/images/3SIDEDCUBE_logo.jpg" alt="3-Sided-Cube" width="200"/>
 
 </td>
 <td>
 
-
 <img src="assets/images/WardenGroupLtd-Logo3.png" alt="WardenGroup" width="200"/>
-
-</td>
-<td>
-<img src="assets/images/Bournemouth_University_Logo.jpg" alt="Bournemouth University" width="200"/>
-
 
 </td>
 </tr>
