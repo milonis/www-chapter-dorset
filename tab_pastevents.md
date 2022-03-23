@@ -155,3 +155,6 @@ Overview of OWASP Projects Top 3 Flagship, Lab and Incubator | Focusing on how t
 ##### Dr. Alexios Mylonas (Program Leader for the BSc (Hons) Forensic Computing and Security @ Bournemouth University. Lecturer in Computing.)
 --- I Know What You Did Last Summer: New persistent tracking mechanisms used in the wild
     Web Storage, Indexed Database API and Web SQL Database allow web browsers to store information in the client in a much more advanced way compared to other techniques, such as HTTP Cookies. They were originally introduced with the goal of enhancing the capabilities of websites, however, they are often exploited as a way of tracking users across multiple sessions and websites. The presentation will be divided into two parts. First, it will quantify the usage of these three primitives in the context of user tracking. This is done by performing a large-scale analysis on the usage of these techniques in the wild. The second part reviews the effectiveness of the removal of client-side storage data in modern browsers.([PDF](assets/presentations/2019-01/OWASP_Dorset_Chapter_Meeting_Jan_2019_Talk_2_Web_Tracking.pdf "wikilink")])
+
+
+<iframe src="https://www.youtube.com/embed/?listType=user_uploads&list=UCMKP6kbpkx3yC2K5u0bHE1g" width="480" height="400"></iframe>
