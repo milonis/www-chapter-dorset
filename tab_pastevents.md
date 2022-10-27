@@ -10,10 +10,24 @@ tags: dorset
 ---
 
 ## Past Events
+
+--------
+### 2022-10 Deepfakes: A Growing Cybersecurity Concern (Meetup #17)
+##### Location: Online
+##### Time: 18:30 - 19:30
+--- Join us for a look at Deepfakes with Mike Warner (one of our OWASP Dorset Chapter Leads)
+
+##### Mike Warner
+Deepfakes; an emergent type of threat falling under the greater and more pervasive umbrella of synthetic media, utilise a form of Artificial Intelligence/Machine Learning (AI/ML) to create believable, realistic videos, pictures, audio, and text of events which never happened.
+
+Criminals are already starting to utilise deepfake technology to impersonate executives' voices on phone calls and even their likenesses over video to add an air of legitimacy to their attacks. As deepfakes become more lifelike, phone calls, video chats and other forms of communication will be more vulnerable to abuse.
+
+This talk with look at the origins of Deepfake technology, how they work, the threats and ethical quandaries they pose, and potential mitigations, with a handful of demos.([PDF](assets/presentations/2022-10/OWASP_Deepfakes-A_Growing_Cybersecurity_Concern.pdf "wikilink"))([VIDEO - coming soon](https://www.youtube.com/channel/UCMKP6kbpkx3yC2K5u0bHE1g))
+
 --------
 ### 2022-03 OWASP Dorset Secure Coding (Meetup #16)
 ##### Location: Online
-##### Time: 18:15- 19:45
+##### Time: 18:15 - 19:45
 --- OWASP Dorset will be hosting an Secure Coding Tournament with Secure Code Warriror. In partnership with OWASP Bristol and OWASP Suffolk
 
 --------
