@@ -83,7 +83,7 @@ If you have been a victim of online harassment you can contact [The Cyber Helpli
 ##### Time: 18:30 - 20:00
 #### Talks
 ##### Bence Nagy (Software Engineer)
---- Detect complex code patterns using semantic grep ([PDF](assets/presentations/2020-10/OWASP Dorset 2020-10-08.pdf "wikilink")) ([VIDEO](https://www.youtube.com/watch?v=6OPvxvTQAGs))
+--- Detect complex code patterns using semantic grep ([PDF](assets/presentations/2020-10/OWASP Dorset 2020-10-08.pdf "wikilink")) ([VIDEO](https://youtu.be/UpzguzNRwAw))
 
 --------
 ### 2020-07 Security of Containers (Meetup #8) 
@@ -91,7 +91,7 @@ If you have been a victim of online harassment you can contact [The Cyber Helpli
 ##### Time: 18:30 - 20:00
 #### Talks
 ##### Shruti Kulkarni (Enterprise Security Architect)
---- Security of Containers ([PDF](assets/presentations/2020-07/Security-Of-Containers-Shruti-Kulkarni.pdf "wikilink")) ([VIDEO](https://youtu.be/pvqg7lUy7Fc?t=124))
+--- Security of Containers ([PDF](assets/presentations/2020-07/Security-Of-Containers-Shruti-Kulkarni.pdf "wikilink")) ([VIDEO](https://youtu.be/lC2oTAQtbqs))
 
 --------
 ### 2020-04 Open Source Intelligence (Meetup #7) 
