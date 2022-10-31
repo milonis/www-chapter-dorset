@@ -22,7 +22,7 @@ Deepfakes; an emergent type of threat falling under the greater and more pervasi
 
 Criminals are already starting to utilise deepfake technology to impersonate executives' voices on phone calls and even their likenesses over video to add an air of legitimacy to their attacks. As deepfakes become more lifelike, phone calls, video chats and other forms of communication will be more vulnerable to abuse.
 
-This talk with look at the origins of Deepfake technology, how they work, the threats and ethical quandaries they pose, and potential mitigations, with a handful of demos.([PDF](assets/presentations/2022-10/OWASP_Deepfakes-A_Growing_Cybersecurity_Concern.pdf "wikilink"))([VIDEO - coming soon](https://www.youtube.com/channel/UCMKP6kbpkx3yC2K5u0bHE1g))
+This talk with look at the origins of Deepfake technology, how they work, the threats and ethical quandaries they pose, and potential mitigations, with a handful of demos.([PDF](assets/presentations/2022-10/OWASP_Deepfakes-A_Growing_Cybersecurity_Concern.pdf "wikilink"))([VIDEO](https://youtu.be/PAegKvRSjoc?t=347))
 
 --------
 ### 2022-03 OWASP Dorset Secure Coding (Meetup #16)
