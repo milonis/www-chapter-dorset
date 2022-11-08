@@ -1,7 +1,7 @@
 ---
 
-title: TryHackMe
-displaytext: TryHackMe Event
+title: King of the Hill
+displaytext: King of the Hill Tournament
 layout: null
 tab: true
 order: 4
@@ -9,7 +9,7 @@ tags: dorset
 
 ---
 
-# TryHackMe King of the Hill tournament Event
+# King of the Hill Tournament
 ## Event Details
 **Date:** 8th December 2022  
 **Time:** 7:00 - 8:30pm GMT  
