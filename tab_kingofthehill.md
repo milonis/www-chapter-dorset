@@ -13,7 +13,7 @@ tags: dorset
 ## Event Details
 **Date:** 8th December 2022  
 **Time:** 7:00 - 8:30pm GMT  
-**Event link:** https://meet.jit.si/owaspdorset  
+**Event link:** [https://meet.jit.si/owaspdorset](https://meet.jit.si/owaspdorset)    
 **Type:** TryHackMe King of the Hill tournament  
 **Limit:** 36 players  
 
@@ -21,7 +21,7 @@ King of the Hill (KoTH) is a competitive hacking game, where you play against 10
 
 We will be running a tournament on TryHackMe's King of the Hill game mode. There will be prizes given out at the end.
 
-https://tryhackme.com/games/koth
+[https://tryhackme.com/games/koth](https://tryhackme.com/games/koth)
 
 ## Prerequisites
 * You must have a TryHackMe account (No subscription required).
