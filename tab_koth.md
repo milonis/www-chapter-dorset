@@ -1,6 +1,6 @@
 ---
 
-title: King of the Hill
+title: KingOfTheHill
 displaytext: King of the Hill Tournament
 layout: null
 tab: true
