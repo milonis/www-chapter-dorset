@@ -3,8 +3,8 @@
 title: KingOfTheHill
 displaytext: King of the Hill Tournament
 layout: null
-tab: true
-order: 4
+tab: false
+order: 5
 tags: dorset
 
 ---
