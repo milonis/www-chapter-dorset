@@ -11,7 +11,7 @@ tags: dorset
 
 ## Past Events
 --------
-### 2023-03 Social Engineering & Physical Penetration Testing (Meetup #19)
+### 2023-03 Social Engineering & Physical Penetration Testing (Meetup #20)
 ##### Location: Bournemouth Gateway Building
 ##### Time: 18:30 - 20:00
 --- Two seasoned Penetration Testers will walk us through some real life physical penetration test case studies; discussing the vulnerabilities, exploits and possible mitigations and resolutions.
