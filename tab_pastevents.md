@@ -11,13 +11,19 @@ tags: dorset
 
 ## Past Events
 --------
-### 2021-12 OWASP Dorset CTF walkthrough (Meetup #19)
+### 2023-03 Social Engineering & Physical Penetration Testing (Meetup #19)
+##### Location: Bournemouth Gateway Building
+##### Time: 18:30 - 20:00
+--- Two seasoned Penetration Testers will walk us through some real life physical penetration test case studies; discussing the vulnerabilities, exploits and possible mitigations and resolutions.
+
+--------
+### 2022-12 OWASP Dorset CTF walkthrough (Meetup #19)
 ##### Location: Online
 ##### Time: 19:00 - 20:00
 --- OWASP Dorset will be hosting an Online Capture the Flag Walkthrough. This will be a run through of the box which the players of the CTF tournament tackled demonstrating both attack and defense.
 
 --------
-### 2021-12 OWASP Dorset CTF (Meetup #18)
+### 2022-12 OWASP Dorset CTF (Meetup #18)
 ##### Location: Online
 ##### Time: 19:00 - 20:30
 --- OWASP Dorset will be hosting an Online Capture the Flag event. This will be a King of the Hill tournament with both attacking and defending requred. Attendees are limited due to available resources.
