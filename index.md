@@ -13,7 +13,7 @@ postal-code:
 
 ---
 Welcome to the Dorset Chapter.  
-Our chapter leaders are [Mark Davison](mailto:mark.davison@owasp.org), [Alexios Mylonas](mailto:alexios.mylonas@owasp.org), [Mike Warner](mailto:michael.warner@owasp.org) and [Nigel Kay](mailto:nigel.kay@owasp.org).  
+Our chapter leaders are [Alexios Mylonas](mailto:alexios.mylonas@owasp.org), [Mike Warner](mailto:michael.warner@owasp.org), [Nigel Kay](mailto:nigel.kay@owasp.org) and [Oliver Ide](mailto:oliver.ide@owasp.org).  
 
 
 We are a welcoming and inclusive chapter no matter your background, our community is made up of cyber security professionals, students, enthusiasts and newcomers, all are welcome. We aim to educate, inform and entertain with every event!
@@ -66,7 +66,7 @@ These organisations have generously supported one of our events
 </table>
 
 ## Speaking at OWASP Dorset Chapter Events
-Call For Speakers is [open](mailto:mark.davison@owasp.org) - if you would like to present a talk on any aspect of cyber security at an OWASP Dorset Chapter event please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via [e-mail](mailto:mark.davison@owasp.org).
+Call For Speakers is [open](mailto:nigel.kay@owasp.org) - if you would like to present a talk on any aspect of cyber security at an OWASP Dorset Chapter event please review and agree with the [OWASP Speaker Agreement](https://owasp.org/www-policy/) and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via [e-mail](mailto:nigel.kay@owasp.org).
 We also welcome people new to public speaking and can offer advice and coaching. We are a friendly and supportive community, come give your first talk with us!
 
 ## Code of Conduct
