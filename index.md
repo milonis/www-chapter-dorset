@@ -79,3 +79,4 @@ We hope you enjoy our events, we care deeply about inclusivity and diversity so 
 
 ## Previous Leadership
 Daniel Warden (Founder): 01/2019 - 07/2021
+Mark Davison: 01/2019 - 06/2023
