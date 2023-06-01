@@ -14,7 +14,7 @@ tags: dorset
 ### 2023-06 Introduction to OWASP ModSecurity CRS (Meetup #21)
 ##### Location: Hays Recruitment Bournemouth
 ##### Time: 18:30 - 20:00
---- OWASP Dorset are proud to bring out latest in-person event, hosted with Hays Recruitment Bournemouth.
+--- OWASP Dorset are proud to bring our latest in-person event, hosted with Hays Recruitment Bournemouth.
 
 ##### Andrew Howe
 --- Andrew Howe is a locally based technical author, architect and Linux load balancer engineer. He is an advocate of open source software and a fellow member of OWASP. Andrew is a developer for the OWASP ModSecurity Core Rule Set (CRS) project.
