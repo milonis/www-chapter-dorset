@@ -33,6 +33,10 @@ These organisations have generously supported one of our events
 <table cellpadding="15" cellspacing="0">
 <tr>
 <td>
+<img src="assets/images/Hays_Digital_Technology.png" alt="Hays Digital" width="200"/>
+
+</td>
+<td>
 
 <img src="assets/images/Bournemouth_University_Logo.jpg" alt="Bournemouth University" width="200"/>
 
@@ -50,10 +54,6 @@ These organisations have generously supported one of our events
 </td>
 </tr>
 <tr>
-<td>
-<img src="assets/images/Hays_Digital_Technology.png" alt="Hays Digital" width="200"/>
-
-</td>
 <td>
 <img src="assets/images/Barclays-EL-Standard-White-Eagle-Logo-RGB.jpg" alt="Barclays" width="200"/>
 
