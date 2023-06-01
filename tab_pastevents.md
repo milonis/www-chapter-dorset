@@ -11,6 +11,20 @@ tags: dorset
 
 ## Past Events
 --------
+### 2023-06 Introduction to OWASP ModSecurity CRS (Meetup #21)
+##### Location: Hays Recruitment Bournemouth
+##### Time: 18:30 - 20:00
+--- OWASP Dorset are proud to bring out latest in-person event, hosted with Hays Recruitment Bournemouth.
+
+##### Andrew Howe
+--- Andrew Howe is a locally based technical author, architect and Linux load balancer engineer. He is an advocate of open source software and a fellow member of OWASP. Andrew is a developer for the OWASP ModSecurity Core Rule Set (CRS) project.
+
+The OWASP ModSecurity Core Rule Set (CRS) is a set of generic attack detection rules for use with ModSecurity or compatible web application firewalls. The CRS aims to protect web applications from a wide range of attacks, including the OWASP Top Ten, with a minimum of false alerts. The CRS provides protection against many common attack categories, including SQL Injection, Cross Site Scripting, Local File Inclusion, etc.([PDF](assets/presentations/2023-06/Introduction_to_the_OWASP_ModSecurity_Core_Rule_Set_Project.pdf "wikilink"))
+
+##### James Walsh
+--- James Walsh of Hays Recruitment will be recaping their Global Cyber Security Report for 2023. A look at trends and changes across the industry.
+
+--------
 ### 2023-03 Social Engineering & Physical Penetration Testing (Meetup #20)
 ##### Location: Bournemouth Gateway Building
 ##### Time: 18:30 - 20:00
